@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "django-constance",
+  "versions": [
+    {
+      "commit": "d77bace84e73ccd747d87ef53f08e19609d484d9",
+      "tag": "",
+      "parsed_at": "2026-10-11T01:50:51.130806+00:00"
+    }
+  ]
+}
